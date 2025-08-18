@@ -48,21 +48,23 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marziehasgari&show_icons=true&locale=en&layout=compact" alt="marziehasgari" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marziehasgari&show_icons=true&locale=en&layout=compact&theme=radical" alt="marziehasgari" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marziehasgari&show_icons=true&locale=en" alt="marziehasgari" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marziehasgari&show_icons=true&locale=en&theme=radical" alt="marziehasgari" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marziehasgari&" alt="marziehasgari" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marziehasgari&theme=radical" alt="marziehasgari" />
 </p>
+
+---
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marziehasgari&theme=onedark" alt="marziehasgari" />
+  <img src="https://github-profile-trophy.vercel.app/?username=marziehasgari&theme=radical&margin-w=10&margin-h=10" alt="marziehasgari" />
 </p>
