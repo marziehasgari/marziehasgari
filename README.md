@@ -48,10 +48,21 @@
 
 ---
 
+<h3 align="left">GitHub Stats:</h3>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marziehasgari&show_icons=true&locale=en&layout=compact" alt="marziehasgari" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marziehasgari&show_icons=true&locale=en" alt="marziehasgari" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marziehasgari&" alt="marziehasgari" />
+</p>
+
+<h3 align="left">🏆 GitHub Trophies:</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marziehasgari&theme=onedark" alt="marziehasgari" />
 </p>
