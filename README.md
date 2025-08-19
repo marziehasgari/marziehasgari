@@ -58,8 +58,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marziehasgari&show_icons=true&locale=en&theme=tokyonight" alt="marziehasgari" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marziehasgari&theme=tokyonight" alt="marziehasgari" />
-</p>
+
 
 ---
