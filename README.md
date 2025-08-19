@@ -58,6 +58,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marziehasgari&show_icons=true&locale=en&theme=tokyonight" alt="marziehasgari" />
 </p>
 
-
-
----
