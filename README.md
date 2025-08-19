@@ -63,8 +63,3 @@
 </p>
 
 ---
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marziehasgari&theme=tokyonight&margin-w=10&margin-h=10" alt="marziehasgari" />
-</p>
