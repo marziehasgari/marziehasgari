@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marzieh Asgari</h1>
-<h2 align="center">Front-end Developer</h2>
+<p align="center">Front-end Developer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=marziehasgari&label=Profile%20views&color=0e75b6&style=flat" alt="marziehasgari" />
